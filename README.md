@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently taking a bachelors degree in computer science
 - 💞️ I’m looking to collaborate in wonderful AI projects
-- 📽️ I also run a programming YouTube Channel check it here: https://www.youtube.com/@TechWithSnakeByte
+- 📽️ I also run a programming YouTube Channel check it here: https://www.youtube.com/@TechWithIan
 - 📫 Feel free to reach out to me ...
 
 <!---
