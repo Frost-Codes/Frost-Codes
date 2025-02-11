@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Frost-Codes
 - 🌱 Fullstack Engineer
 - 🎓 BSc Computer Science
-- 👀 I’m interested in Machine Learning
 - 💞️ Looking for exciting opportunities in AI, frontend, backend and everything in between
 - 📽️ I also run a programming YouTube Channel check it here: https://www.youtube.com/@TechWithIan
 - 📫 Feel free to reach out to me ...
